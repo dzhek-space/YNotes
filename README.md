@@ -2,8 +2,9 @@
 
 Этот проект представлен в ознакомительных целях, в основном для потенциальных работодателей, и является моим результатом прохождения курсов [«Разработка под iOS»](https://academy.yandex.ru/posts/kak-osvoit-startovyy-nabor-ios-razrabotchika) организованных [Академией Яндекса](https://academy.yandex.ru/).
 
-### Скриншоты приложения:
+### Предварительный просмотр приложения:
 
+<img src="https://raw.githubusercontent.com/dzhek-space/YNotes/master/preview_ynotes.webp" alt="preview_ynotes" onerror="this.onerror=null; this.src='preview_ynotes.webp'">
 
 ### Описание функциональности приложения:
 
