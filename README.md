@@ -4,7 +4,7 @@
 
 ### Предварительный просмотр приложения:
 
-<img src="https://raw.githubusercontent.com/dzhek-space/YNotes/master/preview_ynotes.webp" alt="preview_ynotes" onerror="this.onerror=null; this.src='preview_ynotes.webp'">
+<img src="https://github.com/dzhek-space/YNotes/blob/master/preview_ynotes.gif" alt="preview_ynotes">
 
 ### Описание функциональности приложения:
 
