@@ -206,6 +206,13 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		9E1D76A02330B52600F14670 /* git */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = git;
+			sourceTree = "<group>";
+		};
 		9E2770382315138700D84254 /* Views */ = {
 			isa = PBXGroup;
 			children = (
@@ -319,6 +326,7 @@
 			children = (
 				9E47106122D20253000465E0 /* YNotes */,
 				9E47107622D20254000465E0 /* YNotesTests */,
+				9E1D76A02330B52600F14670 /* git */,
 				9E47106022D20253000465E0 /* Products */,
 				F0AADF9F0CD419BDF6FB5343 /* Pods */,
 				52FF567371DC0FA77DAE2C9B /* Frameworks */,

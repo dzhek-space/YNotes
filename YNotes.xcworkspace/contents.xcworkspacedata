@@ -7,4 +7,14 @@
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
+   <Group
+      location = "group:"
+      name = "gitFiles">
+      <FileRef
+         location = "group:preview_ynotes.gif">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
 </Workspace>
