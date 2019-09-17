@@ -4,6 +4,9 @@
 
 ### Предварительный просмотр:
 
+<p align="center">
+<img alt="preview_ynotes" src="https://github.com/dzhek-space/YNotes/blob/master/preview_ynotes.gif" />
+</p>
 
 ### Описание функциональности приложения:
 
